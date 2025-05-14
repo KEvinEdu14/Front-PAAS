@@ -24,7 +24,7 @@
     <button onclick="window.location.href='https://sumador-python-petter-07ab67f9b263.herokuapp.com/'">Heroku</button>
     <button onclick="window.location.href='https://www.digitalocean.com'">Digital Ocean</button>
     <button onclick="window.location.href='https://hello-world-python-production-9769.up.railway.app/'">Railway</button>
-    <button onclick="window.location.href='https://vercel.com'">Vercel</button>
+    <button onclick="window.location.href='https://repos1-86ry.vercel.app/'">Vercel</button>
     <button onclick="window.location.href='https://www.google.com'">Google</button>
 </body>
 </html>
