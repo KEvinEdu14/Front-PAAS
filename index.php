@@ -56,7 +56,7 @@
         <a href="https://whale-app-y259c.ondigitalocean.app/" class="link-button">Digital Ocean</a>
         <a href="https://calculator-python-production.up.railway.app/" class="link-button">Railway</a>
         <a href="https://repos1-sable.vercel.app/" class="link-button">Vercel</a>
-        <a href="http://54.167.180.219/" class="link-button">AWS</a>
+        <a href="http://13.220.126.62//" class="link-button">AWS</a>
     </div>
 </body>
 </html>
